@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+	
+	<script
+	src="https://code.jquery.com/jquery-3.4.1.js"
+	integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+	crossorigin="anonymous"></script>
+
+</head>
+<body >
+
+    <label for="name">Direccion IP:</label>
+
+    <input type="text" id="segmento1" name="segmento1" required minlength="1" maxlength="3" style="width: 3%;" onkeypress="return onlyNumberKey(event)">.
+    <input type="text" id="segmento2" name="segmento2" required minlength="1" maxlength="3" style="width: 3%;" onkeypress="return onlyNumberKey(event)">.
+    <input type="text" id="segmento3" name="segmento3" required minlength="1" maxlength="3" style="width: 3%;" onkeypress="return onlyNumberKey(event)">.
+    <input type="text" id="segmento4" name="segmento4" required minlength="1" maxlength="3" style="width: 3%;" onkeypress="return onlyNumberKey(event)">
+
+    <button type="button" onclick="localizarIP()">localizar</button>
+    <br><br>
+
+    <label name = "error" id = "error" style="font-weight: bold;color: red;"></label><br><br>
+    
+    <label style="font-weight: bold">IP: </label><label name = "ipyfecha" id = "ipyfecha"></label><br>
+        <label style="font-weight: bold;margin-left: 1%;">País: </label><label name = "pais" id = "pais"></label><br>
+        <label style="font-weight: bold;margin-left: 1%;">ISO Code: </label><label name = "iso" id = "iso"></label><br>
+        <label style="font-weight: bold;margin-left: 1%;">Idiomas: </label><label name = "idiomas" id = "idiomas"></label><br>
+        <label style="font-weight: bold;margin-left: 1%;">Moneda: </label><label name = "moneda" id = "moneda"></label><br>
+        <label style="font-weight: bold;margin-left: 1%;">Hora: </label><label name = "hora" id = "hora"></label><br>
+        <label style="font-weight: bold;margin-left: 1%;">Distancia estimada: </label><label name = "distancia" id = "distancia"></label><br>
+
+    <br><br>
+    <button type="button" onclick="consultarEstadisticas()">Consultar Estadisticas</button>
+    <br><br>    
+    <label style="font-weight: bold">Distancia mas cercana desde donde se ha consultado servicio: </label><label name = "cercano" id = "cercano"></label><br>
+    <label style="font-weight: bold">Distancia mas lejana desde donde se ha consultado servicio: </label><label name = "lejano" id = "lejano"></label><br>
+    <label style="font-weight: bold">Distancia Promedio: </label><label name = "promedio" id = "promedio"></label><br>
+
+
+	<script> 
+        function localizarIP(){
+            $("#error").text("");
+            var seg1 = $("#segmento1").val();
+            var seg2 = $("#segmento2").val();
+            var seg3 = $("#segmento3").val();
+            var seg4 = $("#segmento4").val();
+            var direccionIP = seg1+"."+seg2+"."+seg3+"."+seg4;
+            $.ajax({  
+                type: "GET",  
+                url: "http://localhost:8080/servicios/mercadolibre/paises/identificarPaisporIP?direccionIP="+direccionIP,    
+                dataType: "json", 
+                success: function (data) {  
+                   $("#ipyfecha").text(data.direccionIP+", Fecha Actual :"+data.fechaActual);
+                   $("#pais").text(data.nombrePais);
+                   $("#iso").text(data.codigoIso);
+                   $("#idiomas").text(data.idiomas);
+                   $("#moneda").text(data.moneda);
+                   $("#hora").text(data.zonasHorarias);
+                   $("#distancia").text(data.distanciaEstimado);
+                }, 
+                error: function(XMLHttpRequest, textStatus, errorThrown) { 
+                    $("#error").text("Error: "+XMLHttpRequest.responseText);
+                    console.log(XMLHttpRequest);
+                }
+            });         
+        }
+
+        function consultarEstadisticas(){
+            $("#error").text("");
+            $.ajax({  
+                type: "GET",  
+                url: "http://localhost:8080/servicios/mercadolibre/paises/obtenerEstadisticasUsoServicio",    
+                dataType: "json", 
+                success: function (data) {  
+                   console.log(data);
+                   $("#cercano").text(data.distanciaMasCercana.nombrePais+" "+data.distanciaMasCercana.distanciaBuenosAires+" kms");
+                   $("#lejano").text(data.distanciaMasLejanda.nombrePais+" "+data.distanciaMasLejanda.distanciaBuenosAires+" kms");
+                   $("#promedio").text(data.distanciaPromedio);
+                },  
+                error: function(XMLHttpRequest, textStatus, errorThrown) { 
+                    $("#error").text("Error: "+XMLHttpRequest.responseText);
+                    console.log(XMLHttpRequest);
+                }
+            });         
+        }
+
+        function onlyNumberKey(evt) {
+            var ASCIICode = (evt.which) ? evt.which : evt.keyCode
+            if (ASCIICode > 31 && (ASCIICode < 48 || ASCIICode > 57))
+                return false;
+            return true;
+        }
+	</script>
+</body>
+</html>

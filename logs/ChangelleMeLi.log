@@ -1,0 +1,398 @@
+2021-05-26 13:02:34 INFO  NegocioPais:59 - Localizacion de la IP 1.9.85.0 realizada de forma correcta
+2021-05-26 13:06:34 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 13:06:34 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 13:06:34 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 13:06:35 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 13:06:35 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 13:06:48 INFO  NegocioPais:59 - Localizacion de la IP 1.9.85.0 realizada de forma correcta
+2021-05-26 13:07:29 ERROR NegocioPais:62 - No se pudo identificar localizacion por IP: null
+2021-05-26 13:07:51 ERROR NegocioPais:62 - No se pudo identificar localizacion por IP: null
+2021-05-26 13:08:02 ERROR NegocioPais:62 - No se pudo identificar localizacion por IP: null
+2021-05-26 13:08:23 INFO  NegocioPais:59 - Localizacion de la IP 1.20.58.0 realizada de forma correcta
+2021-05-26 13:09:00 ERROR NegocioPais:62 - No se pudo identificar localizacion por IP: 400 Bad Request: [<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+]
+2021-05-26 13:09:07 INFO  NegocioPais:59 - Localizacion de la IP 1.21.168.1 realizada de forma correcta
+2021-05-26 13:11:40 INFO  NegocioPais:59 - Localizacion de la IP 1.0.0.255 realizada de forma correcta
+2021-05-26 13:12:14 INFO  NegocioPais:59 - Localizacion de la IP 1.0.0.255 realizada de forma correcta
+2021-05-26 13:12:47 ERROR NegocioPais:62 - No se pudo identificar localizacion por IP: null
+2021-05-26 13:12:59 ERROR NegocioPais:62 - No se pudo identificar localizacion por IP: null
+2021-05-26 13:13:21 ERROR NegocioPais:62 - No se pudo identificar localizacion por IP: null
+2021-05-26 13:13:49 INFO  NegocioPais:59 - Localizacion de la IP 223.231.91.255 realizada de forma correcta
+2021-05-26 13:14:56 INFO  NegocioPais:59 - Localizacion de la IP 1.0.3.255 realizada de forma correcta
+2021-05-26 13:17:00 INFO  NegocioPais:59 - Localizacion de la IP 95.120.0.0 realizada de forma correcta
+2021-05-26 13:19:25 INFO  NegocioPais:59 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 14:49:11 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 14:49:11 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 14:49:11 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 14:49:13 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 14:49:13 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 14:50:38 INFO  NegocioPais:59 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 14:53:35 INFO  NegocioPais:59 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 14:54:01 INFO  NegocioPais:59 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 14:55:46 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 14:55:46 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 14:55:46 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 14:55:48 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 14:55:48 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 14:55:55 INFO  NegocioPais:59 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 14:59:55 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 14:59:55 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 14:59:55 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 14:59:56 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 14:59:57 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:00:20 INFO  NegocioPais:59 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 15:00:47 INFO  NegocioPais:59 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-26 15:01:35 INFO  NegocioPais:59 - Localizacion de la IP 1.0.64.0 realizada de forma correcta
+2021-05-26 15:02:16 INFO  NegocioPais:59 - Localizacion de la IP 1.0.129.0 realizada de forma correcta
+2021-05-26 15:03:27 INFO  NegocioPais:59 - Localizacion de la IP 200.221.0.0 realizada de forma correcta
+2021-05-26 15:06:08 INFO  NegocioPais:59 - Localizacion de la IP 200.221.0.0 realizada de forma correcta
+2021-05-26 15:06:38 INFO  NegocioPais:59 - Localizacion de la IP 200.221.0.0 realizada de forma correcta
+2021-05-26 15:07:18 INFO  NegocioPais:59 - Localizacion de la IP 200.86.0.0 realizada de forma correcta
+2021-05-26 15:15:28 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:15:28 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:15:28 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:15:29 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:15:29 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:15:39 INFO  NegocioPais:62 - Localizacion de la IP 200.86.0.0 realizada de forma correcta
+2021-05-26 15:19:24 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:19:24 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:19:24 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:19:26 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:19:26 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:19:30 INFO  NegocioPais:62 - Localizacion de la IP 200.86.0.0 realizada de forma correcta
+2021-05-26 15:27:53 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:27:53 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:27:53 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:27:54 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:27:54 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:28:02 INFO  NegocioPais:62 - Localizacion de la IP 200.86.0.0 realizada de forma correcta
+2021-05-26 15:33:22 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:33:22 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:33:22 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:33:23 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:33:23 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:33:26 INFO  NegocioPais:62 - Localizacion de la IP 200.86.0.0 realizada de forma correcta
+2021-05-26 15:41:19 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:41:19 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:41:19 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:41:21 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:41:21 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:41:26 INFO  NegocioPais:62 - Localizacion de la IP 200.86.0.0 realizada de forma correcta
+2021-05-26 15:43:47 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:43:47 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:43:47 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:43:49 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:43:49 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:43:55 INFO  NegocioPais:62 - Localizacion de la IP 200.86.0.0 realizada de forma correcta
+2021-05-26 15:44:13 ERROR NegocioPais:66 - No se pudo identificar localizacion por IP: 400 Bad Request: [<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+]
+2021-05-26 15:44:19 INFO  NegocioPais:62 - Localizacion de la IP 1.0.64.0 realizada de forma correcta
+2021-05-26 15:44:54 INFO  NegocioPais:62 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 15:45:04 INFO  NegocioPais:62 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-26 15:46:14 INFO  NegocioPais:62 - Localizacion de la IP 1.0.129.0 realizada de forma correcta
+2021-05-26 15:47:03 INFO  NegocioPais:62 - Localizacion de la IP 203.197.244.0 realizada de forma correcta
+2021-05-26 15:52:15 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:52:15 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:52:16 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:52:17 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:52:17 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:52:24 INFO  NegocioPais:64 - Localizacion de la IP 203.197.244.3 realizada de forma correcta
+2021-05-26 15:52:30 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: 400 Bad Request: [<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+]
+2021-05-26 15:54:33 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:54:33 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:54:33 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:54:34 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:54:34 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:54:45 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: 400 Bad Request: [<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+]
+2021-05-26 15:55:09 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:55:09 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:55:09 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:55:10 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:55:10 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:55:20 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: 400 Bad Request: [<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+]
+2021-05-26 15:55:47 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 15:55:47 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 15:55:47 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 15:55:49 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 15:55:49 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 15:55:53 INFO  NegocioPais:64 - Localizacion de la IP 203.197.244.10 realizada de forma correcta
+2021-05-26 15:56:00 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: 400 Bad Request: [<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+]
+2021-05-26 15:56:18 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: 400 Bad Request: [<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+]
+2021-05-26 15:56:39 INFO  NegocioPais:64 - Localizacion de la IP 203.197.244.100 realizada de forma correcta
+2021-05-26 15:56:42 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: null
+2021-05-26 15:59:23 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: null
+2021-05-26 15:59:45 INFO  NegocioPais:64 - Localizacion de la IP 103.197.244.100 realizada de forma correcta
+2021-05-26 19:04:14 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 19:04:14 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 19:04:14 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 19:04:15 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 19:04:15 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 19:06:30 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: null
+2021-05-26 19:06:35 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: null
+2021-05-26 19:07:20 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 19:07:20 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 19:07:20 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 19:07:22 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 19:07:22 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 19:08:28 INFO  NegocioPais:64 - Localizacion de la IP 203.197.244.0 realizada de forma correcta
+2021-05-26 19:08:40 INFO  NegocioPais:64 - Localizacion de la IP 203.197.244.0 realizada de forma correcta
+2021-05-26 19:08:55 INFO  NegocioPais:64 - Localizacion de la IP 203.197.244.0 realizada de forma correcta
+2021-05-26 19:11:59 INFO  NegocioPais:64 - Localizacion de la IP 66.249.64.0 realizada de forma correcta
+2021-05-26 19:13:28 INFO  NegocioPais:64 - Localizacion de la IP 79.144.0.0 realizada de forma correcta
+2021-05-26 19:13:28 ERROR ResponseLocalizacionDTO:148 - No se pudo construir repuesta servicio localizacion: Invalid ID for ZoneOffset, invalid format: 
+2021-05-26 19:14:01 INFO  NegocioPais:64 - Localizacion de la IP 79.144.0.0 realizada de forma correcta
+2021-05-26 19:14:02 ERROR ResponseLocalizacionDTO:148 - No se pudo construir repuesta servicio localizacion: Invalid ID for ZoneOffset, invalid format: 
+2021-05-26 19:15:03 INFO  NegocioPais:64 - Localizacion de la IP 79.144.0.0 realizada de forma correcta
+2021-05-26 19:17:43 ERROR ResponseLocalizacionDTO:150 - No se pudo construir repuesta servicio localizacion: Invalid ID for ZoneOffset, non numeric characters found: UTC
+2021-05-26 19:17:51 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 19:17:51 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 19:17:51 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 19:17:53 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 19:17:53 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 19:17:59 INFO  NegocioPais:64 - Localizacion de la IP 79.144.0.0 realizada de forma correcta
+2021-05-26 19:18:23 ERROR ResponseLocalizacionDTO:150 - No se pudo construir repuesta servicio localizacion: Invalid ID for ZoneOffset, non numeric characters found: UTC
+2021-05-26 19:18:31 INFO  NegocioPais:64 - Localizacion de la IP 79.144.0.0 realizada de forma correcta
+2021-05-26 19:19:24 ERROR ResponseLocalizacionDTO:152 - No se pudo construir repuesta servicio localizacion: Invalid ID for ZoneOffset, non numeric characters found: 00:00
+2021-05-26 19:19:58 INFO  NegocioPais:64 - Localizacion de la IP 79.144.0.0 realizada de forma correcta
+2021-05-26 19:21:42 ERROR NegocioPais:68 - No se pudo identificar localizacion por IP: 400 Bad Request: [<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+]
+2021-05-26 19:21:55 INFO  NegocioPais:64 - Localizacion de la IP 1.0.129.0 realizada de forma correcta
+2021-05-26 19:22:13 INFO  NegocioPais:64 - Localizacion de la IP 1.0.129.0 realizada de forma correcta
+2021-05-26 19:27:15 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 19:27:15 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 19:27:15 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 19:27:17 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 19:27:17 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 19:27:21 INFO  NegocioPais:64 - Localizacion de la IP 1.0.129.0 realizada de forma correcta
+2021-05-26 19:28:36 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 19:28:36 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 19:28:36 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 19:28:37 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 19:28:37 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 19:28:41 INFO  NegocioPais:64 - Localizacion de la IP 1.0.129.0 realizada de forma correcta
+2021-05-26 19:30:57 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 19:30:57 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 19:30:57 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 19:30:58 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 19:30:58 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 19:31:25 INFO  NegocioPais:64 - Localizacion de la IP 79.144.0.0 realizada de forma correcta
+2021-05-26 19:34:57 INFO  NegocioPais:64 - Localizacion de la IP 1.0.64.0 realizada de forma correcta
+2021-05-26 19:35:05 INFO  NegocioPais:64 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-26 19:35:50 INFO  NegocioPais:64 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-26 19:36:07 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 19:36:07 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 19:36:07 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 19:36:08 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 19:36:08 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 19:36:16 INFO  NegocioPais:64 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-26 19:37:01 INFO  NegocioPais:64 - Localizacion de la IP 1.0.64.0 realizada de forma correcta
+2021-05-26 19:45:16 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 19:45:17 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 19:45:17 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 19:45:18 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 19:45:18 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 19:45:24 INFO  NegocioPais:64 - Localizacion de la IP 1.0.64.0 realizada de forma correcta
+2021-05-26 19:45:28 INFO  NegocioPais:64 - Localizacion de la IP 1.0.64.0 realizada de forma correcta
+2021-05-26 19:45:39 INFO  NegocioPais:64 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 19:45:51 INFO  NegocioPais:64 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-26 19:46:04 INFO  NegocioPais:64 - Localizacion de la IP 79.144.0.0 realizada de forma correcta
+2021-05-26 19:46:24 INFO  NegocioPais:64 - Localizacion de la IP 203.197.244.0 realizada de forma correcta
+2021-05-26 20:01:18 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 20:01:18 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 20:01:18 INFO  InitDataBase:27 - Inicializando base de datos de paises
+2021-05-26 20:01:20 INFO  InitDataBase:33 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 20:01:20 INFO  InitDataBase:40 - Base de datos de paises inicializada de forma correcta
+2021-05-26 20:01:26 INFO  NegocioPais:64 - Localizacion de la IP 203.197.244.0 realizada de forma correcta
+2021-05-26 20:01:36 INFO  NegocioPais:64 - Localizacion de la IP 1.0.129.0 realizada de forma correcta
+2021-05-26 20:01:46 INFO  NegocioPais:64 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-26 20:01:56 INFO  NegocioPais:64 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 20:02:29 INFO  NegocioPais:64 - Localizacion de la IP 181.53.12.187 realizada de forma correcta
+2021-05-26 20:02:45 INFO  NegocioPais:64 - Localizacion de la IP 200.86.0.0 realizada de forma correcta
+2021-05-26 20:03:57 INFO  NegocioPais:64 - Localizacion de la IP 66.249.64.0 realizada de forma correcta
+2021-05-26 20:06:53 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 20:06:53 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 20:06:53 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 20:06:54 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 20:06:56 ERROR InitDataBase:45 - No se pudo inicializar base de datos paises: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-26 20:07:45 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 20:07:45 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 20:07:45 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 20:07:46 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 20:07:46 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-26 21:17:25 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 21:17:25 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 21:17:26 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 21:17:27 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 21:17:27 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-26 21:17:58 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 21:17:58 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 21:17:58 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 21:17:59 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 21:18:00 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-26 21:19:09 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 21:19:09 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 21:19:09 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 21:19:10 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 21:19:11 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-26 21:19:37 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 21:19:37 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 21:19:37 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 21:19:38 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 21:19:39 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-26 21:35:00 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 21:35:00 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 21:35:00 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 21:35:01 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 21:35:01 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-26 22:06:12 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 22:06:12 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 22:06:12 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 22:06:14 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 22:06:14 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-26 22:22:00 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 22:22:01 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 22:22:01 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 22:22:02 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 22:22:04 ERROR InitDataBase:45 - No se pudo inicializar base de datos paises: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-26 22:25:30 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 22:25:30 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 22:25:30 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 22:25:31 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 22:25:33 ERROR InitDataBase:45 - No se pudo inicializar base de datos paises: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-26 22:55:48 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 22:55:48 INFO  Configuracion:47 - RedisTemplate Inicializado de forma correcta
+2021-05-26 22:55:48 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 22:55:50 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 22:55:52 ERROR InitDataBase:45 - No se pudo inicializar base de datos paises: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-26 23:00:51 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 23:00:51 INFO  Configuracion:48 - RedisTemplate Inicializado de forma correcta
+2021-05-26 23:00:51 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 23:00:52 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 23:00:54 ERROR InitDataBase:45 - No se pudo inicializar base de datos paises: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-26 23:01:32 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 23:01:32 INFO  Configuracion:48 - RedisTemplate Inicializado de forma correcta
+2021-05-26 23:01:32 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 23:01:33 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 23:01:35 ERROR InitDataBase:45 - No se pudo inicializar base de datos paises: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-26 23:03:59 INFO  Configuracion:29 - Conexion establecida con Redis
+2021-05-26 23:03:59 INFO  Configuracion:48 - RedisTemplate Inicializado de forma correcta
+2021-05-26 23:03:59 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-26 23:04:00 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-26 23:04:00 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:31:42 INFO  Configuracion:38 - Conexion establecida con Redis
+2021-05-27 09:31:42 INFO  Configuracion:56 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:31:42 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:31:44 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:31:46 ERROR InitDataBase:45 - No se pudo inicializar base de datos paises: Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+2021-05-27 09:32:55 INFO  Configuracion:38 - Conexion establecida con Redis
+2021-05-27 09:32:55 INFO  Configuracion:56 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:32:55 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:32:57 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:32:57 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:34:58 INFO  Configuracion:38 - Conexion establecida con Redis
+2021-05-27 09:34:58 INFO  Configuracion:56 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:34:58 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:35:00 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:35:00 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:37:42 INFO  Configuracion:38 - Conexion establecida con Redis
+2021-05-27 09:37:42 INFO  Configuracion:56 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:37:42 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:37:45 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:37:46 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:40:35 INFO  Configuracion:42 - Conexion establecida con Redis
+2021-05-27 09:40:35 INFO  Configuracion:60 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:40:35 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:40:37 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:40:37 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:41:05 INFO  Configuracion:42 - Conexion establecida con Redis
+2021-05-27 09:41:05 INFO  Configuracion:60 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:41:05 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:41:12 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:41:12 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:44:07 INFO  Configuracion:42 - Conexion establecida con Redis
+2021-05-27 09:44:07 INFO  Configuracion:60 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:44:07 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:44:11 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:44:11 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:45:42 INFO  Configuracion:42 - Conexion establecida con Redis
+2021-05-27 09:45:42 INFO  Configuracion:60 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:45:42 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:45:44 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:45:44 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:46:13 INFO  Configuracion:42 - Conexion establecida con Redis
+2021-05-27 09:46:13 INFO  Configuracion:60 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:46:13 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:46:15 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:46:15 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:48:15 INFO  Configuracion:42 - Conexion establecida con Redis
+2021-05-27 09:48:15 INFO  Configuracion:60 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:48:15 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:48:20 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:48:20 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:49:04 INFO  NegocioPais:47 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-27 09:56:53 INFO  Configuracion:42 - Conexion establecida con Redis
+2021-05-27 09:56:53 INFO  Configuracion:60 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:56:54 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:56:55 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:56:55 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:57:00 INFO  NegocioPais:47 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-27 09:57:01 INFO  NegocioPais:47 - Localizacion de la IP 1.0.4.0 realizada de forma correcta
+2021-05-27 09:59:27 INFO  Configuracion:42 - Conexion establecida con Redis
+2021-05-27 09:59:27 INFO  Configuracion:60 - RedisTemplate Inicializado de forma correcta
+2021-05-27 09:59:28 INFO  InitDataBase:29 - Inicializando base de datos de paises
+2021-05-27 09:59:29 INFO  InitDataBase:35 - Calculando distancias de cada pais a Buenos Aires, Argentina
+2021-05-27 09:59:29 INFO  InitDataBase:42 - Base de datos de paises inicializada de forma correcta
+2021-05-27 09:59:41 INFO  NegocioPais:47 - Localizacion de la IP 1.0.4.0 realizada de forma correcta

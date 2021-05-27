@@ -1,0 +1,18 @@
+version: '3'
+services:
+  challenger-meli:
+    container_name: challenger-meli
+    build: .
+    image: service-paises
+    ports:
+     - "8080:8080"
+    links:
+     - redis-server
+  redis-server:
+    container_name: redis-server
+    image: redis:5.0.0-alpine
+    ports:
+      - "6379:6379"
+    hostname: redis-server          
+  
+  
